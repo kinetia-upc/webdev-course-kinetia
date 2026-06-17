@@ -1,3 +1,3 @@
 document.getElementById("miBoton").onclick = function () {
-  document.body.style.backgroundColor = "lightgreen";
+    document.body.style.backgroundColor = "lightgreen";
 };
