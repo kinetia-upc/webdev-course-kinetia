@@ -1,0 +1,16 @@
+/* Selector de clase (con punto): afecta solo a esta tarjeta, no a todos los elementos */
+.tarjeta-curso {
+  background-color: #F1F8E9;   /* color en formato hexadecimal, consistente */
+  border: 2px solid #558B2F;   /* unidad sin espacio: 2px, nunca "2 px" */
+  border-radius: 12px;
+  padding: 16px;
+  margin: 20px auto;
+  width: 300px;
+  text-align: center;
+}                                
+/* cada declaración termina en punto y coma */
+
+/* Otro selector de clase: solo afecta este título, no TODOS los h2 de la página */
+.titulo-curso {
+  color: #33691E; /* mismo formato hexadecimal que las demás reglas */
+}
