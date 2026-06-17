@@ -1,0 +1,18 @@
+.tarjeta-perfil{
+  background-color: #E0F7FA;
+  border: 3px solid #00838F;
+  padding: 20px;
+  margin: 30px auto;
+  width: 280px;
+  text-align: center;
+  
+}
+
+.nombre{
+  background-color: #FFD54F;
+  border: 2px dashed #F57F17;
+}
+
+.foto{
+  border: 2px dashed #F57F17;
+}
